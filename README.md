@@ -1,1 +1,1 @@
-# blog-page
+# My blog page for articles
